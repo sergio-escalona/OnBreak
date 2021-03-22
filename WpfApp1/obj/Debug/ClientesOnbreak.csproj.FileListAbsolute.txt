@@ -1,0 +1,1716 @@
+I:\desarrollo escritorio\proyecto 1\Onbreak\WpfApp1\bin\Debug\WpfApp1.exe.config
+I:\desarrollo escritorio\proyecto 1\Onbreak\WpfApp1\bin\Debug\WpfApp1.exe
+I:\desarrollo escritorio\proyecto 1\Onbreak\WpfApp1\bin\Debug\WpfApp1.pdb
+I:\desarrollo escritorio\proyecto 1\Onbreak\WpfApp1\bin\Debug\Onbreak.dll
+I:\desarrollo escritorio\proyecto 1\Onbreak\WpfApp1\bin\Debug\Onbreak.pdb
+I:\desarrollo escritorio\proyecto 1\Onbreak\WpfApp1\obj\Debug\ClientesOnbreak.csprojAssemblyReference.cache
+I:\desarrollo escritorio\proyecto 1\Onbreak\WpfApp1\obj\Debug\MainWindow.g.cs
+I:\desarrollo escritorio\proyecto 1\Onbreak\WpfApp1\obj\Debug\App.g.cs
+I:\desarrollo escritorio\proyecto 1\Onbreak\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+I:\desarrollo escritorio\proyecto 1\Onbreak\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+I:\desarrollo escritorio\proyecto 1\Onbreak\WpfApp1\obj\Debug\MainWindow.baml
+I:\desarrollo escritorio\proyecto 1\Onbreak\WpfApp1\obj\Debug\WpfApp1.g.resources
+I:\desarrollo escritorio\proyecto 1\Onbreak\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+I:\desarrollo escritorio\proyecto 1\Onbreak\WpfApp1\obj\Debug\ClientesOnbreak.csproj.GenerateResource.cache
+I:\desarrollo escritorio\proyecto 1\Onbreak\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CoreCompileInputs.cache
+I:\desarrollo escritorio\proyecto 1\Onbreak\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CopyComplete
+I:\desarrollo escritorio\proyecto 1\Onbreak\WpfApp1\obj\Debug\WpfApp1.exe
+I:\desarrollo escritorio\proyecto 1\Onbreak\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Maximilian\Desktop\Onbreak\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Maximilian\Desktop\Onbreak\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Maximilian\Desktop\Onbreak\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Maximilian\Desktop\Onbreak\WpfApp1\bin\Debug\Onbreak.dll
+C:\Users\Maximilian\Desktop\Onbreak\WpfApp1\bin\Debug\Onbreak.pdb
+C:\Users\Maximilian\Desktop\Onbreak\WpfApp1\obj\Debug\ClientesOnbreak.csprojAssemblyReference.cache
+C:\Users\Maximilian\Desktop\Onbreak\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Maximilian\Desktop\Onbreak\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Maximilian\Desktop\Onbreak\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Maximilian\Desktop\Onbreak\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Maximilian\Desktop\Onbreak\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Maximilian\Desktop\Onbreak\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Maximilian\Desktop\Onbreak\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Maximilian\Desktop\Onbreak\WpfApp1\obj\Debug\ClientesOnbreak.csproj.GenerateResource.cache
+C:\Users\Maximilian\Desktop\Onbreak\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CoreCompileInputs.cache
+C:\Users\Maximilian\Desktop\Onbreak\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CopyComplete
+C:\Users\Maximilian\Desktop\Onbreak\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Maximilian\Desktop\Onbreak\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\CASA\Downloads\Onbreak Casi listo\Onbreak\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\CASA\Downloads\Onbreak Casi listo\Onbreak\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\CASA\Downloads\Onbreak Casi listo\Onbreak\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\CASA\Downloads\Onbreak Casi listo\Onbreak\WpfApp1\bin\Debug\Onbreak.dll
+C:\Users\CASA\Downloads\Onbreak Casi listo\Onbreak\WpfApp1\bin\Debug\Onbreak.pdb
+C:\Users\CASA\Downloads\Onbreak Casi listo\Onbreak\WpfApp1\obj\Debug\ClientesOnbreak.csprojAssemblyReference.cache
+C:\Users\CASA\Downloads\Onbreak Casi listo\Onbreak\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\CASA\Downloads\Onbreak Casi listo\Onbreak\WpfApp1\obj\Debug\App.g.cs
+C:\Users\CASA\Downloads\Onbreak Casi listo\Onbreak\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\CASA\Downloads\Onbreak Casi listo\Onbreak\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\CASA\Downloads\Onbreak Casi listo\Onbreak\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\CASA\Downloads\Onbreak Casi listo\Onbreak\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\CASA\Downloads\Onbreak Casi listo\Onbreak\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\CASA\Downloads\Onbreak Casi listo\Onbreak\WpfApp1\obj\Debug\ClientesOnbreak.csproj.GenerateResource.cache
+C:\Users\CASA\Downloads\Onbreak Casi listo\Onbreak\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Downloads\Onbreak Casi listo\Onbreak\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CopyComplete
+C:\Users\CASA\Downloads\Onbreak Casi listo\Onbreak\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\CASA\Downloads\Onbreak Casi listo\Onbreak\WpfApp1\obj\Debug\WpfApp1.pdb
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak listo\WpfApp1\obj\Debug\ClientesOnbreak.csprojAssemblyReference.cache
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak listo\WpfApp1\obj\Debug\Login.g.cs
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak listo\WpfApp1\obj\Debug\App.g.cs
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak listo\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak listo\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak listo\WpfApp1\obj\Debug\WpfApp1.exe
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak listo\WpfApp1\obj\Debug\WpfApp1.pdb
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak listo\WpfApp1\bin\Debug\WpfApp1.exe.config
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak listo\WpfApp1\bin\Debug\WpfApp1.exe
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak listo\WpfApp1\bin\Debug\WpfApp1.pdb
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak listo\WpfApp1\bin\Debug\Onbreak.dll
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak listo\WpfApp1\bin\Debug\Onbreak.pdb
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak listo\WpfApp1\obj\Debug\Login.baml
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak listo\WpfApp1\obj\Debug\WpfApp1.g.resources
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak listo\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak listo\WpfApp1\obj\Debug\ClientesOnbreak.csproj.GenerateResource.cache
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak listo\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CoreCompileInputs.cache
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak listo\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CopyComplete
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak listo\WpfApp1\obj\Debug\Menu.g.cs
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak listo\WpfApp1\obj\Debug\Menu.baml
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak listo\WpfApp1\obj\Debug\Buscar.g.cs
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak listo\WpfApp1\obj\Debug\Agregar.g.cs
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak listo\WpfApp1\obj\Debug\Buscar.baml
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak listo\WpfApp1\obj\Debug\Agregar.baml
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak con ventanas\WpfApp1\bin\Debug\WpfApp1.exe.config
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak con ventanas\WpfApp1\bin\Debug\WpfApp1.exe
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak con ventanas\WpfApp1\bin\Debug\WpfApp1.pdb
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak con ventanas\WpfApp1\bin\Debug\Onbreak.dll
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak con ventanas\WpfApp1\bin\Debug\Onbreak.pdb
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak con ventanas\WpfApp1\obj\Debug\ClientesOnbreak.csprojAssemblyReference.cache
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak con ventanas\WpfApp1\obj\Debug\Buscar.g.cs
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak con ventanas\WpfApp1\obj\Debug\Login.g.cs
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak con ventanas\WpfApp1\obj\Debug\Agregar.g.cs
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak con ventanas\WpfApp1\obj\Debug\Menu.g.cs
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak con ventanas\WpfApp1\obj\Debug\App.g.cs
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak con ventanas\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak con ventanas\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak con ventanas\WpfApp1\obj\Debug\Buscar.baml
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak con ventanas\WpfApp1\obj\Debug\Login.baml
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak con ventanas\WpfApp1\obj\Debug\Agregar.baml
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak con ventanas\WpfApp1\obj\Debug\Menu.baml
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak con ventanas\WpfApp1\obj\Debug\WpfApp1.g.resources
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak con ventanas\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak con ventanas\WpfApp1\obj\Debug\ClientesOnbreak.csproj.GenerateResource.cache
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak con ventanas\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CoreCompileInputs.cache
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak con ventanas\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CopyComplete
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak con ventanas\WpfApp1\obj\Debug\WpfApp1.exe
+I:\desarrollo escritorio\proyecto 1\Onbreak listo\Onbreak con ventanas\WpfApp1\obj\Debug\WpfApp1.pdb
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas\WpfApp1\bin\Debug\WpfApp1.exe.config
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas\WpfApp1\bin\Debug\WpfApp1.exe
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas\WpfApp1\bin\Debug\WpfApp1.pdb
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas\WpfApp1\bin\Debug\Onbreak.dll
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas\WpfApp1\bin\Debug\Onbreak.pdb
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas\WpfApp1\obj\Debug\ClientesOnbreak.csprojAssemblyReference.cache
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas\WpfApp1\obj\Debug\Buscar.g.cs
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas\WpfApp1\obj\Debug\Login.g.cs
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas\WpfApp1\obj\Debug\Agregar.g.cs
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas\WpfApp1\obj\Debug\Menu.g.cs
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas\WpfApp1\obj\Debug\App.g.cs
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas\WpfApp1\obj\Debug\Buscar.baml
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas\WpfApp1\obj\Debug\Login.baml
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas\WpfApp1\obj\Debug\Agregar.baml
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas\WpfApp1\obj\Debug\Menu.baml
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas\WpfApp1\obj\Debug\WpfApp1.g.resources
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas\WpfApp1\obj\Debug\ClientesOnbreak.csproj.GenerateResource.cache
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CoreCompileInputs.cache
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CopyComplete
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas\WpfApp1\obj\Debug\WpfApp1.exe
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Maximilian\Desktop\Onbreak con ventanas\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Maximilian\Desktop\Onbreak con ventanas\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Maximilian\Desktop\Onbreak con ventanas\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Maximilian\Desktop\Onbreak con ventanas\WpfApp1\bin\Debug\Onbreak.dll
+C:\Users\Maximilian\Desktop\Onbreak con ventanas\WpfApp1\bin\Debug\Onbreak.pdb
+C:\Users\Maximilian\Desktop\Onbreak con ventanas\WpfApp1\obj\Debug\ClientesOnbreak.csprojAssemblyReference.cache
+C:\Users\Maximilian\Desktop\Onbreak con ventanas\WpfApp1\obj\Debug\Buscar.g.cs
+C:\Users\Maximilian\Desktop\Onbreak con ventanas\WpfApp1\obj\Debug\Login.g.cs
+C:\Users\Maximilian\Desktop\Onbreak con ventanas\WpfApp1\obj\Debug\Agregar.g.cs
+C:\Users\Maximilian\Desktop\Onbreak con ventanas\WpfApp1\obj\Debug\Menu.g.cs
+C:\Users\Maximilian\Desktop\Onbreak con ventanas\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Maximilian\Desktop\Onbreak con ventanas\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Maximilian\Desktop\Onbreak con ventanas\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Maximilian\Desktop\Onbreak con ventanas\WpfApp1\obj\Debug\Buscar.baml
+C:\Users\Maximilian\Desktop\Onbreak con ventanas\WpfApp1\obj\Debug\Login.baml
+C:\Users\Maximilian\Desktop\Onbreak con ventanas\WpfApp1\obj\Debug\Agregar.baml
+C:\Users\Maximilian\Desktop\Onbreak con ventanas\WpfApp1\obj\Debug\Menu.baml
+C:\Users\Maximilian\Desktop\Onbreak con ventanas\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Maximilian\Desktop\Onbreak con ventanas\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Maximilian\Desktop\Onbreak con ventanas\WpfApp1\obj\Debug\ClientesOnbreak.csproj.GenerateResource.cache
+C:\Users\Maximilian\Desktop\Onbreak con ventanas\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CoreCompileInputs.cache
+C:\Users\Maximilian\Desktop\Onbreak con ventanas\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CopyComplete
+C:\Users\Maximilian\Desktop\Onbreak con ventanas\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Maximilian\Desktop\Onbreak con ventanas\WpfApp1\obj\Debug\WpfApp1.pdb
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak con ventanas y el login\WpfApp1\bin\Debug\WpfApp1.exe.config
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak con ventanas y el login\WpfApp1\bin\Debug\WpfApp1.exe
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak con ventanas y el login\WpfApp1\bin\Debug\WpfApp1.pdb
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak con ventanas y el login\WpfApp1\bin\Debug\Onbreak.dll
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak con ventanas y el login\WpfApp1\bin\Debug\Onbreak.pdb
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak con ventanas y el login\WpfApp1\obj\Debug\ClientesOnbreak.csprojAssemblyReference.cache
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak con ventanas y el login\WpfApp1\obj\Debug\Buscar.g.cs
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak con ventanas y el login\WpfApp1\obj\Debug\Login.g.cs
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak con ventanas y el login\WpfApp1\obj\Debug\Agregar.g.cs
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak con ventanas y el login\WpfApp1\obj\Debug\Menu.g.cs
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak con ventanas y el login\WpfApp1\obj\Debug\App.g.cs
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak con ventanas y el login\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak con ventanas y el login\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak con ventanas y el login\WpfApp1\obj\Debug\Buscar.baml
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak con ventanas y el login\WpfApp1\obj\Debug\Login.baml
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak con ventanas y el login\WpfApp1\obj\Debug\Agregar.baml
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak con ventanas y el login\WpfApp1\obj\Debug\Menu.baml
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak con ventanas y el login\WpfApp1\obj\Debug\WpfApp1.g.resources
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak con ventanas y el login\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak con ventanas y el login\WpfApp1\obj\Debug\ClientesOnbreak.csproj.GenerateResource.cache
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak con ventanas y el login\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CoreCompileInputs.cache
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak con ventanas y el login\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CopyComplete
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak con ventanas y el login\WpfApp1\obj\Debug\WpfApp1.exe
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak con ventanas y el login\WpfApp1\obj\Debug\WpfApp1.pdb
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak 1.0\WpfApp1\bin\Debug\WpfApp1.exe.config
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak 1.0\WpfApp1\bin\Debug\WpfApp1.exe
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak 1.0\WpfApp1\bin\Debug\WpfApp1.pdb
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak 1.0\WpfApp1\bin\Debug\Onbreak.dll
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak 1.0\WpfApp1\bin\Debug\Onbreak.pdb
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak 1.0\WpfApp1\obj\Debug\ClientesOnbreak.csprojAssemblyReference.cache
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak 1.0\WpfApp1\obj\Debug\Buscar.g.cs
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak 1.0\WpfApp1\obj\Debug\Login.g.cs
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak 1.0\WpfApp1\obj\Debug\Agregar.g.cs
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak 1.0\WpfApp1\obj\Debug\Menu.g.cs
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak 1.0\WpfApp1\obj\Debug\App.g.cs
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak 1.0\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak 1.0\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak 1.0\WpfApp1\obj\Debug\Buscar.baml
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak 1.0\WpfApp1\obj\Debug\Login.baml
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak 1.0\WpfApp1\obj\Debug\Agregar.baml
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak 1.0\WpfApp1\obj\Debug\Menu.baml
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak 1.0\WpfApp1\obj\Debug\WpfApp1.g.resources
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak 1.0\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak 1.0\WpfApp1\obj\Debug\ClientesOnbreak.csproj.GenerateResource.cache
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak 1.0\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CoreCompileInputs.cache
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak 1.0\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CopyComplete
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak 1.0\WpfApp1\obj\Debug\WpfApp1.exe
+I:\desarrollo escritorio\proyecto 1\Onbreak con ventanas y el login\Onbreak 1.0\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Maximilian\Desktop\Onbreak 1.1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Maximilian\Desktop\Onbreak 1.1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.1\WpfApp1\bin\Debug\Onbreak.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.1\WpfApp1\bin\Debug\Onbreak.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.1\WpfApp1\obj\Debug\ClientesOnbreak.csprojAssemblyReference.cache
+C:\Users\Maximilian\Desktop\Onbreak 1.1\WpfApp1\obj\Debug\Buscar.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.1\WpfApp1\obj\Debug\Login.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.1\WpfApp1\obj\Debug\Agregar.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.1\WpfApp1\obj\Debug\Menu.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Maximilian\Desktop\Onbreak 1.1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Maximilian\Desktop\Onbreak 1.1\WpfApp1\obj\Debug\Buscar.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.1\WpfApp1\obj\Debug\Login.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.1\WpfApp1\obj\Debug\Agregar.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.1\WpfApp1\obj\Debug\Menu.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Maximilian\Desktop\Onbreak 1.1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Maximilian\Desktop\Onbreak 1.1\WpfApp1\obj\Debug\ClientesOnbreak.csproj.GenerateResource.cache
+C:\Users\Maximilian\Desktop\Onbreak 1.1\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CoreCompileInputs.cache
+C:\Users\Maximilian\Desktop\Onbreak 1.1\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CopyComplete
+C:\Users\Maximilian\Desktop\Onbreak 1.1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Maximilian\Desktop\Onbreak 1.1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\CASA\Downloads\Onbreak 1.1 bien colorido\Onbreak 1.1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\CASA\Downloads\Onbreak 1.1 bien colorido\Onbreak 1.1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\CASA\Downloads\Onbreak 1.1 bien colorido\Onbreak 1.1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\CASA\Downloads\Onbreak 1.1 bien colorido\Onbreak 1.1\WpfApp1\bin\Debug\Onbreak.dll
+C:\Users\CASA\Downloads\Onbreak 1.1 bien colorido\Onbreak 1.1\WpfApp1\bin\Debug\Onbreak.pdb
+C:\Users\CASA\Downloads\Onbreak 1.1 bien colorido\Onbreak 1.1\WpfApp1\obj\Debug\ClientesOnbreak.csprojAssemblyReference.cache
+C:\Users\CASA\Downloads\Onbreak 1.1 bien colorido\Onbreak 1.1\WpfApp1\obj\Debug\Login.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.1 bien colorido\Onbreak 1.1\WpfApp1\obj\Debug\Menu.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.1 bien colorido\Onbreak 1.1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.1 bien colorido\Onbreak 1.1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\CASA\Downloads\Onbreak 1.1 bien colorido\Onbreak 1.1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\CASA\Downloads\Onbreak 1.1 bien colorido\Onbreak 1.1\WpfApp1\obj\Debug\Login.baml
+C:\Users\CASA\Downloads\Onbreak 1.1 bien colorido\Onbreak 1.1\WpfApp1\obj\Debug\Menu.baml
+C:\Users\CASA\Downloads\Onbreak 1.1 bien colorido\Onbreak 1.1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\CASA\Downloads\Onbreak 1.1 bien colorido\Onbreak 1.1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\CASA\Downloads\Onbreak 1.1 bien colorido\Onbreak 1.1\WpfApp1\obj\Debug\ClientesOnbreak.csproj.GenerateResource.cache
+C:\Users\CASA\Downloads\Onbreak 1.1 bien colorido\Onbreak 1.1\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Downloads\Onbreak 1.1 bien colorido\Onbreak 1.1\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CopyComplete
+C:\Users\CASA\Downloads\Onbreak 1.1 bien colorido\Onbreak 1.1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\CASA\Downloads\Onbreak 1.1 bien colorido\Onbreak 1.1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\CASA\Downloads\Onbreak 1.1 bien colorido\Onbreak 1.1\WpfApp1\obj\Debug\Agregar_con.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.1 bien colorido\Onbreak 1.1\WpfApp1\obj\Debug\Buscar_cli.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.1 bien colorido\Onbreak 1.1\WpfApp1\obj\Debug\Agregar_cli.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.1 bien colorido\Onbreak 1.1\WpfApp1\obj\Debug\Agregar_con.baml
+C:\Users\CASA\Downloads\Onbreak 1.1 bien colorido\Onbreak 1.1\WpfApp1\obj\Debug\Buscar_cli.baml
+C:\Users\CASA\Downloads\Onbreak 1.1 bien colorido\Onbreak 1.1\WpfApp1\obj\Debug\Agregar_cli.baml
+C:\Users\CASA\Downloads\Onbreak 1.1 bien colorido\Onbreak 1.1\WpfApp1\obj\Debug\Buscar_con.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.1 bien colorido\Onbreak 1.1\WpfApp1\obj\Debug\Buscar_con.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\bin\Debug\Onbreak.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\bin\Debug\Onbreak.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\obj\Debug\ClientesOnbreak.csprojAssemblyReference.cache
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\obj\Debug\Agregar_con.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\obj\Debug\Buscar_cli.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\obj\Debug\Buscar_con.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\obj\Debug\Login.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\obj\Debug\Agregar_cli.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\obj\Debug\Menu.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\obj\Debug\Agregar_con.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\obj\Debug\Buscar_cli.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\obj\Debug\Buscar_con.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\obj\Debug\Login.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\obj\Debug\Agregar_cli.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\obj\Debug\Menu.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\obj\Debug\ClientesOnbreak.csproj.GenerateResource.cache
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CoreCompileInputs.cache
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CopyComplete
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\bin\Debug\ControlzEx.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\bin\Debug\MahApps.Metro.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\bin\Debug\ControlzEx.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\bin\Debug\MahApps.Metro.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\bin\Debug\MahApps.Metro.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\obj\Debug\Resources\Icons.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.1 colorido y con contrato\WpfApp1\obj\Debug\App.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\bin\Debug\ControlzEx.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\bin\Debug\MahApps.Metro.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\bin\Debug\Onbreak.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\bin\Debug\Onbreak.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\bin\Debug\ControlzEx.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\bin\Debug\MahApps.Metro.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\bin\Debug\MahApps.Metro.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\obj\Debug\ClientesOnbreak.csprojAssemblyReference.cache
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\obj\Debug\Resources\Icons.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\obj\Debug\Agregar_con.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\obj\Debug\Buscar_cli.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\obj\Debug\Buscar_con.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\obj\Debug\Login.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\obj\Debug\Agregar_cli.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\obj\Debug\Menu.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\obj\Debug\App.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\obj\Debug\Agregar_con.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\obj\Debug\Buscar_cli.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\obj\Debug\Buscar_con.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\obj\Debug\Login.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\obj\Debug\Agregar_cli.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\obj\Debug\Menu.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\obj\Debug\ClientesOnbreak.csproj.GenerateResource.cache
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CoreCompileInputs.cache
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CopyComplete
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Maximilian\Desktop\Onbreak 1.1 Estilo Metro y con contrato\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\bin\Debug\ControlzEx.dll
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\bin\Debug\MahApps.Metro.dll
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\bin\Debug\Onbreak.dll
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\bin\Debug\Onbreak.pdb
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\bin\Debug\ControlzEx.pdb
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\bin\Debug\MahApps.Metro.pdb
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\bin\Debug\MahApps.Metro.xml
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\obj\Debug\ClientesOnbreak.csprojAssemblyReference.cache
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\obj\Debug\Resources\Icons.baml
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\obj\Debug\Agregar_con.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\obj\Debug\Buscar_cli.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\obj\Debug\Buscar_con.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\obj\Debug\Login.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\obj\Debug\Agregar_cli.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\obj\Debug\Menu.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\obj\Debug\App.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\obj\Debug\App.baml
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\obj\Debug\Agregar_con.baml
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\obj\Debug\Buscar_cli.baml
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\obj\Debug\Buscar_con.baml
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\obj\Debug\Login.baml
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\obj\Debug\Agregar_cli.baml
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\obj\Debug\Menu.baml
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\obj\Debug\ClientesOnbreak.csproj.GenerateResource.cache
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CopyComplete
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\CASA\Downloads\Onbreak 1.1 Estilo Metro LISTO y con contrato\Onbreak 1.1 Estilo Metro LISTO y con contrato\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\ControlzEx.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\Onbreak.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\Onbreak.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\ControlzEx.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\obj\Debug\ClientesOnbreak.csprojAssemblyReference.cache
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\obj\Debug\Resources\Icons.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\obj\Debug\Agregar_con.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\obj\Debug\Buscar_cli.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\obj\Debug\Buscar_con.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\obj\Debug\Login.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\obj\Debug\Agregar_cli.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\obj\Debug\Menu.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\obj\Debug\App.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\obj\Debug\Agregar_con.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\obj\Debug\Buscar_cli.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\obj\Debug\Buscar_con.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\obj\Debug\Login.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\obj\Debug\Agregar_cli.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\obj\Debug\Menu.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\obj\Debug\ClientesOnbreak.csproj.GenerateResource.cache
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CoreCompileInputs.cache
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CopyComplete
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\ControlzEx.dll
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.dll
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\Onbreak.dll
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\Onbreak.pdb
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\ControlzEx.pdb
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.pdb
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.xml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\obj\Debug\ClientesOnbreak.csprojAssemblyReference.cache
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\obj\Debug\Resources\Icons.baml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\obj\Debug\Agregar_con.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\obj\Debug\Buscar_cli.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\obj\Debug\Buscar_con.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\obj\Debug\Login.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\obj\Debug\Agregar_cli.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\obj\Debug\Menu.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\obj\Debug\App.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\obj\Debug\App.baml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\obj\Debug\Agregar_con.baml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\obj\Debug\Buscar_cli.baml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\obj\Debug\Buscar_con.baml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\obj\Debug\Login.baml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\obj\Debug\Agregar_cli.baml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\obj\Debug\Menu.baml
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\obj\Debug\ClientesOnbreak.csproj.GenerateResource.cache
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CopyComplete
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\CASA\Downloads\Onbreak 1.2 con estilo metro y alto contraste listo\Onbreak 1.2\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\ControlzEx.dll
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.dll
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\Onbreak.dll
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\Onbreak.pdb
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\ControlzEx.pdb
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.pdb
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.xml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\obj\Debug\ClientesOnbreak.csprojAssemblyReference.cache
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\obj\Debug\Resources\Icons.baml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\obj\Debug\Agregar_con.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\obj\Debug\Buscar_cli.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\obj\Debug\Buscar_con.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\obj\Debug\Login.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\obj\Debug\Agregar_cli.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\obj\Debug\Menu.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\obj\Debug\App.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\obj\Debug\App.baml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\obj\Debug\Agregar_con.baml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\obj\Debug\Buscar_cli.baml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\obj\Debug\Buscar_con.baml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\obj\Debug\Login.baml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\obj\Debug\Agregar_cli.baml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\obj\Debug\Menu.baml
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\obj\Debug\ClientesOnbreak.csproj.GenerateResource.cache
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CopyComplete
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\CASA\Downloads\Onbreak 1.3\Onbreak 1.2\WpfApp1\obj\Debug\WpfApp1.pdb
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\WpfApp1.exe.config
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\WpfApp1.exe
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\WpfApp1.pdb
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\ControlzEx.dll
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.dll
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.dll
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\Onbreak.dll
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\System.Windows.Interactivity.dll
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\Onbreak.pdb
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\ControlzEx.pdb
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.pdb
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.xml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.pdb
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.xml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\obj\Debug\ClientesOnbreak.csprojAssemblyReference.cache
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\obj\Debug\Resources\Icons.baml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\obj\Debug\Resources\IconsNonShared.baml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\obj\Debug\Agregar_con.g.cs
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\obj\Debug\Buscar_cli.g.cs
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\obj\Debug\Buscar_con.g.cs
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\obj\Debug\Login.g.cs
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\obj\Debug\Agregar_cli.g.cs
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\obj\Debug\Menu.g.cs
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\obj\Debug\App.g.cs
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\obj\Debug\App.baml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\obj\Debug\Agregar_con.baml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\obj\Debug\Buscar_cli.baml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\obj\Debug\Buscar_con.baml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\obj\Debug\Login.baml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\obj\Debug\Agregar_cli.baml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\obj\Debug\Menu.baml
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1.g.resources
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\obj\Debug\ClientesOnbreak.csproj.GenerateResource.cache
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CoreCompileInputs.cache
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CopyComplete
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1.exe
+I:\desarrollo escritorio\proyecto 1\asd\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\ControlzEx.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\Onbreak.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\Onbreak.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\ControlzEx.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\obj\Debug\ClientesOnbreak.csprojAssemblyReference.cache
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\obj\Debug\Resources\Icons.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\obj\Debug\Agregar_con.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\obj\Debug\Buscar_cli.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\obj\Debug\Buscar_con.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\obj\Debug\Login.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\obj\Debug\Agregar_cli.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\obj\Debug\Menu.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\obj\Debug\App.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\obj\Debug\Agregar_con.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\obj\Debug\Buscar_cli.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\obj\Debug\Buscar_con.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\obj\Debug\Login.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\obj\Debug\Agregar_cli.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\obj\Debug\Menu.baml
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\obj\Debug\ClientesOnbreak.csproj.GenerateResource.cache
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CoreCompileInputs.cache
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CopyComplete
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Maximilian\Desktop\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\ControlzEx.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\Onbreak.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\Onbreak.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\ControlzEx.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\obj\Debug\ClientesOnbreak.csprojAssemblyReference.cache
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\obj\Debug\Resources\Icons.baml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\obj\Debug\Agregar_con.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\obj\Debug\Buscar_cli.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\obj\Debug\Buscar_con.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\obj\Debug\Login.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\obj\Debug\Agregar_cli.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\obj\Debug\Menu.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\obj\Debug\App.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\obj\Debug\App.baml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\obj\Debug\Agregar_con.baml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\obj\Debug\Buscar_cli.baml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\obj\Debug\Buscar_con.baml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\obj\Debug\Login.baml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\obj\Debug\Agregar_cli.baml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\obj\Debug\Menu.baml
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\obj\Debug\ClientesOnbreak.csproj.GenerateResource.cache
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CopyComplete
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\CASA\Downloads\Onbreak 1.4 estetica lista\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\ControlzEx.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\Onbreak.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\Onbreak.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\ControlzEx.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\obj\Debug\ClientesOnbreak.csprojAssemblyReference.cache
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\obj\Debug\Resources\Icons.baml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\obj\Debug\Agregar_con.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\obj\Debug\Buscar_cli.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\obj\Debug\Buscar_con.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\obj\Debug\Login.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\obj\Debug\Agregar_cli.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\obj\Debug\Menu.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\obj\Debug\App.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\obj\Debug\App.baml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\obj\Debug\Agregar_con.baml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\obj\Debug\Buscar_cli.baml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\obj\Debug\Buscar_con.baml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\obj\Debug\Login.baml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\obj\Debug\Agregar_cli.baml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\obj\Debug\Menu.baml
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\obj\Debug\ClientesOnbreak.csproj.GenerateResource.cache
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CopyComplete
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\CASA\Downloads\Onbreak 1.4 con collection\Onbreak 1.4 con collection\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1.pdb
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\WpfApp1.exe
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\ControlzEx.dll
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.dll
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.dll
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\Onbreak.dll
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\System.Windows.Interactivity.dll
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\Onbreak.pdb
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\ControlzEx.pdb
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.pdb
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.xml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.pdb
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.xml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\obj\Debug\ClientesOnbreak.csprojAssemblyReference.cache
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\obj\Debug\Resources\Icons.baml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\obj\Debug\Resources\IconsNonShared.baml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\obj\Debug\Agregar_con.g.cs
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\obj\Debug\Buscar_cli.g.cs
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\obj\Debug\Buscar_con.g.cs
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\obj\Debug\Login.g.cs
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\obj\Debug\Agregar_cli.g.cs
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\obj\Debug\Menu.g.cs
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\obj\Debug\App.g.cs
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\obj\Debug\App.baml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\obj\Debug\Agregar_con.baml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\obj\Debug\Buscar_cli.baml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\obj\Debug\Buscar_con.baml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\obj\Debug\Login.baml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\obj\Debug\Agregar_cli.baml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\obj\Debug\Menu.baml
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\obj\Debug\ClientesOnbreak.csproj.GenerateResource.cache
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CoreCompileInputs.cache
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CopyComplete
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1.exe
+E:\Usuarios\Checo\Documentos\Visual Studio 2019\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\ControlzEx.dll
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.dll
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\Onbreak.dll
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\Onbreak.pdb
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\ControlzEx.pdb
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.pdb
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.xml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\obj\Debug\ClientesOnbreak.csprojAssemblyReference.cache
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\obj\Debug\Resources\Icons.baml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\obj\Debug\Agregar_con.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\obj\Debug\Buscar_cli.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\obj\Debug\Buscar_con.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\obj\Debug\Login.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\obj\Debug\Agregar_cli.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\obj\Debug\Menu.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\obj\Debug\App.g.cs
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\obj\Debug\App.baml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\obj\Debug\Agregar_con.baml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\obj\Debug\Buscar_cli.baml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\obj\Debug\Buscar_con.baml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\obj\Debug\Login.baml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\obj\Debug\Agregar_cli.baml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\obj\Debug\Menu.baml
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\obj\Debug\ClientesOnbreak.csproj.GenerateResource.cache
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CopyComplete
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\CASA\Downloads\Onbreak 1.5.3\Onbreak 1.4\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\ControlzEx.dll
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.dll
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\Onbreak.dll
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\Onbreak.pdb
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\ControlzEx.pdb
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.pdb
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.xml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\obj\Debug\ClientesOnbreak.csprojAssemblyReference.cache
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\obj\Debug\Resources\Icons.baml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\obj\Debug\Agregar_con.g.cs
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\obj\Debug\Buscar_cli.g.cs
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\obj\Debug\Buscar_con.g.cs
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\obj\Debug\Login.g.cs
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\obj\Debug\Agregar_cli.g.cs
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\obj\Debug\Menu.g.cs
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\obj\Debug\App.baml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\obj\Debug\Agregar_con.baml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\obj\Debug\Buscar_cli.baml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\obj\Debug\Buscar_con.baml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\obj\Debug\Login.baml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\obj\Debug\Agregar_cli.baml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\obj\Debug\Menu.baml
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\obj\Debug\ClientesOnbreak.csproj.GenerateResource.cache
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CoreCompileInputs.cache
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CopyComplete
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Maximilian\Desktop\Onbreak casi final\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\ControlzEx.dll
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.dll
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\Onbreak.dll
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\Onbreak.pdb
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\ControlzEx.pdb
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.pdb
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.xml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\obj\Debug\ClientesOnbreak.csprojAssemblyReference.cache
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\obj\Debug\Resources\Icons.baml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\obj\Debug\Agregar_con.g.cs
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\obj\Debug\Buscar_cli.g.cs
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\obj\Debug\Buscar_con.g.cs
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\obj\Debug\Login.g.cs
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\obj\Debug\Agregar_cli.g.cs
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\obj\Debug\Menu.g.cs
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\obj\Debug\App.g.cs
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\obj\Debug\App.baml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\obj\Debug\Agregar_con.baml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\obj\Debug\Buscar_cli.baml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\obj\Debug\Buscar_con.baml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\obj\Debug\Login.baml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\obj\Debug\Agregar_cli.baml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\obj\Debug\Menu.baml
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\obj\Debug\ClientesOnbreak.csproj.GenerateResource.cache
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CopyComplete
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\CASA\Downloads\Onbreak  final\Onbreak  final\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\obj\Debug\ClientesOnbreak.csprojAssemblyReference.cache
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\obj\Debug\Resources\Icons.baml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\obj\Debug\Agregar_con.g.cs
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\obj\Debug\Buscar_cli.g.cs
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\obj\Debug\Buscar_con.g.cs
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\obj\Debug\Login.g.cs
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\obj\Debug\Agregar_cli.g.cs
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\obj\Debug\Menu.g.cs
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\obj\Debug\App.g.cs
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\ControlzEx.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\Onbreak.Datos.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\Onbreak.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\Onbreak.Datos.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\Onbreak.Datos.dll.config
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\Onbreak.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\Onbreak.dll.config
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\ControlzEx.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.xml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\obj\Debug\App.baml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\obj\Debug\Agregar_con.baml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\obj\Debug\Buscar_cli.baml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\obj\Debug\Buscar_con.baml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\obj\Debug\Login.baml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\obj\Debug\Agregar_cli.baml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\obj\Debug\Menu.baml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\obj\Debug\ClientesOnbreak.csproj.GenerateResource.cache
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CopyComplete
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\WpfApp1.exe.config
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\WpfApp1.exe
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\WpfApp1.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\ControlzEx.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\EntityFramework.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\Onbreak.Datos.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\Onbreak.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\System.Windows.Interactivity.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\Onbreak.Datos.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\Onbreak.Datos.dll.config
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\Onbreak.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\Onbreak.dll.config
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\ControlzEx.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\EntityFramework.xml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.xml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.xml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\obj\Debug\ClientesOnbreak.csprojAssemblyReference.cache
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\obj\Debug\Resources\Icons.baml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\obj\Debug\Resources\IconsNonShared.baml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\obj\Debug\Agregar_con.g.cs
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\obj\Debug\Buscar_cli.g.cs
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\obj\Debug\Buscar_con.g.cs
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\obj\Debug\Login.g.cs
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\obj\Debug\Agregar_cli.g.cs
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\obj\Debug\Menu.g.cs
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\obj\Debug\App.g.cs
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\obj\Debug\App.baml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\obj\Debug\Agregar_con.baml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\obj\Debug\Buscar_cli.baml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\obj\Debug\Buscar_con.baml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\obj\Debug\Login.baml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\obj\Debug\Agregar_cli.baml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\obj\Debug\Menu.baml
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\obj\Debug\WpfApp1.g.resources
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\obj\Debug\ClientesOnbreak.csproj.GenerateResource.cache
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CoreCompileInputs.cache
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\obj\Debug\ClientesOnbreak.csproj.CopyComplete
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\obj\Debug\WpfApp1.exe
+I:\desarrollo escritorio\proyecto 3\Onbreak\WpfApp1\obj\Debug\WpfApp1.pdb

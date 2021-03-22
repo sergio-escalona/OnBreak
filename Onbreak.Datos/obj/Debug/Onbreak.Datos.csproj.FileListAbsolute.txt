@@ -1,0 +1,24 @@
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\Onbreak.Datos\bin\Debug\Onbreak.Datos.dll.config
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\Onbreak.Datos\bin\Debug\Onbreak.Datos.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\Onbreak.Datos\bin\Debug\Onbreak.Datos.pdb
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\Onbreak.Datos\bin\Debug\EntityFramework.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\Onbreak.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\Onbreak.Datos\bin\Debug\EntityFramework.xml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\Onbreak.Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\Onbreak.Datos\obj\Debug\Onbreak.Datos.csprojAssemblyReference.cache
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\Onbreak.Datos\obj\Debug\Onbreak.Datos.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\Onbreak.Datos\obj\Debug\Onbreak.Datos.csproj.CopyComplete
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\Onbreak.Datos\obj\Debug\Onbreak.Datos.dll
+C:\Users\CASA\Downloads\Onbreak conexion BBDD(EDITAR VARIABLES)\Onbreak  final\Onbreak.Datos\obj\Debug\Onbreak.Datos.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\Onbreak.Datos\bin\Debug\Onbreak.Datos.dll.config
+I:\desarrollo escritorio\proyecto 3\Onbreak\Onbreak.Datos\bin\Debug\Onbreak.Datos.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\Onbreak.Datos\bin\Debug\Onbreak.Datos.pdb
+I:\desarrollo escritorio\proyecto 3\Onbreak\Onbreak.Datos\bin\Debug\EntityFramework.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\Onbreak.Datos\bin\Debug\EntityFramework.SqlServer.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\Onbreak.Datos\bin\Debug\EntityFramework.xml
+I:\desarrollo escritorio\proyecto 3\Onbreak\Onbreak.Datos\bin\Debug\EntityFramework.SqlServer.xml
+I:\desarrollo escritorio\proyecto 3\Onbreak\Onbreak.Datos\obj\Debug\Onbreak.Datos.csprojAssemblyReference.cache
+I:\desarrollo escritorio\proyecto 3\Onbreak\Onbreak.Datos\obj\Debug\Onbreak.Datos.csproj.CoreCompileInputs.cache
+I:\desarrollo escritorio\proyecto 3\Onbreak\Onbreak.Datos\obj\Debug\Onbreak.Datos.csproj.CopyComplete
+I:\desarrollo escritorio\proyecto 3\Onbreak\Onbreak.Datos\obj\Debug\Onbreak.Datos.dll
+I:\desarrollo escritorio\proyecto 3\Onbreak\Onbreak.Datos\obj\Debug\Onbreak.Datos.pdb
